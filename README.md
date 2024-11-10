@@ -73,6 +73,7 @@ The **Food Spoilage Detector** is an IoT-based embedded system designed to monit
 
 ![image](https://github.com/user-attachments/assets/a12916f5-539f-4041-8f09-b079b026d9da)
 
-##Sample Poster
+## Sample Poster
+
 ![image](https://github.com/user-attachments/assets/17310821-045c-418e-99b5-74fc52e57edf)
 
