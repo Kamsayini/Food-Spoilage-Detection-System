@@ -1,10 +1,8 @@
-![image](https://github.com/user-attachments/assets/991b261a-e767-4bbc-9cc8-b320e2f6ac41)# Food Spoilage Detector
 
-## Project Overview
+### Project Overview
 
 The **Food Spoilage Detector** is an IoT-based embedded system designed to monitor food freshness by detecting gases released during spoilage. This project utilizes Arduino technology and various sensors to provide early warnings about spoiled food, aiming to reduce waste and prevent health risks associated with consuming spoiled food.
 
-## Installation
 
 ### Prerequisites
 
@@ -78,4 +76,3 @@ The **Food Spoilage Detector** is an IoT-based embedded system designed to monit
 ##Sample Poster
 ![image](https://github.com/user-attachments/assets/17310821-045c-418e-99b5-74fc52e57edf)
 
-![image](https://github.com/user-attachments/assets/2f95a9f8-2ba5-46d7-9081-9a45a6328989)
